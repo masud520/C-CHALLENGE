@@ -2,8 +2,6 @@
 using namespace std;
 
 // In this program:
-
-// \t is used to insert tab spaces for indentation.
 // \" is used to print double quotes within the string.
 int main() {
     cout << ".....\"Escape Sequence  practice\"....." << endl;
